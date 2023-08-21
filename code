@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>header 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emperors' Philosophy: Mind Over Heart</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<style>body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #000080; /* Navy blue */
+    color: black; /* Or another color that contrasts well with navy blue */
+    text-align: center;
+    padding: 30px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+h2, h3 {
+    color: #333;
+}
+
+main {
+    padding: 20px;
+}
+
+article {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+
+footer {
+    background-color: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+</style>
+</head>
+<body>
+    <header class="text-center py-4">
+        <h1>Emperors' Philosophy: Mind Over Heart</h1>
+    </header>
+    <main class="container">
+        <section>
+            <h2>Strong Mind</h2>
+            <p>Explore the philosophy of strong-minded leadership, as exhibited by great emperors throughout history.</p>
+        </section>
+        <section>
+            <h2>Blog: Mind Over Heart</h2>
+            <article>
+<img src="augustus.jpg" alt="Emperor Augustus" style="width:100%;max-width:400px;">
+                <h3>Emperor Augustus</h3>
+                <p>Known for his wisdom and strategic thinking, Augustus emphasized the importance of rationality over emotion.</p>
+            </article>
+            <article>
+                <h3>Emperor Akbar</h3>
+<img src="akbar.jpg" alt="Emperor Akbar" style="width:100%;max-width:400px;">
+                <p>Akbar, the Mughal Emperor, was renowned for his tolerance and vision, valuing intelligence over mere sentiment.</p>
+            </article>
+            <!-- Add more emperors here -->
+        </section>
+    </main>
+    <footer class="text-center py-3">
+        <p>&copy; Your Name, Year</p>
+    </footer>
+</body>
+</html>
